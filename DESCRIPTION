@@ -1,11 +1,11 @@
 Package: SA24204149
 Type: Package
-Title: What the Package Does in One 'Title Case' Line
+Title:my package for statcomp
 Version: 1.0
 Date: 2024-12-07
-Author: Your Name
-Maintainer: Your Name <your@email.com>
-Description: One paragraph description of what the package does as one or more full sentences.
+Author: Huang Yue
+Maintainer: Huang Yue <hy020917@mail.ustc.edu.cn>
+Description: Functions used to estimate number of factors and calculate loss funtion.
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.9)
 RoxygenNote: 7.3.2
