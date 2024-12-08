@@ -3,32 +3,17 @@
 \alias{SA24204149}
 \docType{package}
 \title{
-  A short title line describing what the package does
+  my package for statcomp
 }
 \description{
-  A more detailed description of what the package does. A length
-  of about one to five lines is recommended.
+ Functions used to estimate number of factors and calculate loss funtion.
 }
 \details{
-  This section should provide a more detailed overview of how to use the
-  package, including the most important functions.
+  estimate number of factors and calculate loss funtion.
 }
 \author{
-Your Name, email optional.
+Huang Yue, hy020917@mail.ustc.edu.cn.
 
-Maintainer: Your Name <your@email.com>
-}
-\references{
-  This optional section can contain literature or other references for
-  background information.
+Maintainer: Huang Yue <hy020917@mail.ustc.edu.cn>
 }
 \keyword{ package }
-\seealso{
-  Optional links to other man pages
-}
-\examples{
-  \dontrun{
-     ## Optional simple examples of the most important functions
-     ## These can be in \dontrun{} and \donttest{} blocks.   
-  }
-}
